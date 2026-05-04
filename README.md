@@ -36,8 +36,8 @@
 ### 1. Клонирование и установка зависимостей
 
 ```bash
-git clone <url_вашего_репозитория>
-cd <папка_проекта>
+git clone https://github.com/EshkereBOY/ai-drone-review-analyzer
+cd ai-drone-review-analyzer
 pip install -r requirements.txt
 ```
 
