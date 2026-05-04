@@ -1,0 +1,317 @@
+[
+  {
+    "review_id": 1,
+    "review_text": "Недостатки: Аккумулятора хватает на 5 минут Про другое даже писать не буду все очень плохо Полетал два дня Больше не взлетает ) Не рекомендую деньги на выброс",
+    "original_rating": 1,
+    "original_author": "Иван П.",
+    "source_url": "https://market.yandex.ru/card/kvadrokopter-a23-pro-c-kameroy-bezshchetochnyye-motory-2-akkumulyatora/103807713862/reviews?offerId=Be_--JrH0ZjWG-TxizsivQ&shopName=BMSHOP&businessReviews=1",
+    "model_results": {
+      "groq": {
+        "sentiment": "отрицательный",
+        "main_topic": "",
+        "issue": "короткое время работы батареи",
+        "rating": 1
+      },
+      "gigachat": {
+        "sentiment": "отрицательный",
+        "main_topic": "время работы батареи",
+        "issue": "аккумулятор держит заряд всего 5 минут; device перестал работать после двух дней использования",
+        "rating": 1
+      }
+    }
+  },
+  {
+    "review_id": 2,
+    "review_text": "Достоинства: Главное достоинство - хорошо переносит встречи с препятствием. Сколько их уже было - не счесть (видимо, я особо одаренный в этом деле). Прост в настройке. Есть инструкция на русском языке. Очень отзывчивый на движение стиками на пульте. Для новичка (как я), возможно даже слишком. Недостатки: аккумуляторы слабые. 5, может чуть больше, минут без нагрузки и подключения к камере. Двух аккумуляторов мало, где купить новые непонятно. Легко сносится ветром. Зависание на месте живёт какой-то своей жизнью. То просто сносит куда-то в сторону, то вдруг решает, что это самое место в паре метров от точки остановки. Телефон в держателе не держится. Там просто напрашивается какая-нибудь ступенька, чтобы его зафиксировать. Но ее нет. Камера ни о чем, но чтобы освоить полет от первого лица - хватит (если телефон удастся в держателе закрепить). Комментарий: Как игрушка или для наработки навыка управления (полетать по квадрату, по восьмёрке и т.п.) - почти подходит если понять, где купить дополнительные. Слабые аккумуляторы не дают толком потренироваться. Только начинает что-то получаться, а они уже все. А заряжаются они довольно долго.",
+    "original_rating": 3,
+    "original_author": "Сергей Т.",
+    "source_url": "https://market.yandex.ru/card/kvadrokopter-a23-pro-c-kameroy-bezshchetochnyye-motory-2-akkumulyatora/103807713862/reviews?offerId=Be_--JrH0ZjWG-TxizsivQ&shopName=BMSHOP&businessReviews=1",
+    "model_results": {
+      "groq": {
+        "sentiment": "нейтральный",
+        "main_topic": "качество квадрокоптера",
+        "issue": "короткое время работы батареи",
+        "rating": 4
+      },
+      "gigachat": {
+        "sentiment": "смешанный",
+        "main_topic": "общее впечатление",
+        "issue": "слабые аккумуляторы и проблемы с креплением телефона",
+        "rating": 3
+      }
+    }
+  },
+  {
+    "review_id": 3,
+    "review_text": "Достоинства: не уносит ветром, видно в темноте Недостатки: связь теряется при отлете на 50 метров, перестаёт слушаться, батарея 15 минут не держит, 10 минут максимум, а заряжается 120 минут.",
+    "original_rating": 3,
+    "original_author": "Алексей К.",
+    "source_url": "https://market.yandex.ru/card/kvadrokopter-a23-pro-c-kameroy-bezshchetochnyye-motory-2-akkumulyatora/103807713862/reviews?offerId=Be_--JrH0ZjWG-TxizsivQ&shopName=BMSHOP&businessReviews=1",
+    "model_results": {
+      "groq": {
+        "sentiment": "нейтральный",
+        "main_topic": "качество дронов",
+        "issue": "короткое время работы батареи и проблемы с связью",
+        "rating": 2
+      },
+      "gigachat": {
+        "sentiment": "отрицательный",
+        "main_topic": "надежность управления",
+        "issue": "потеря связи на расстоянии, короткое время работы батареи, долгая зарядка",
+        "rating": 2
+      }
+    }
+  },
+  {
+    "review_id": 4,
+    "review_text": "Достоинства: Хорошее управление, отлично летает. Недостатки: Нет Комментарий: Отличный квадрокоптер.. Всё работает, летает отлично, управление хорошее. Детям очень понравилось!",
+    "original_rating": 5,
+    "original_author": "Дмитрий В.",
+    "source_url": "https://market.yandex.ru/card/kvadrokopter-a23-pro-c-kameroy-bezshchetochnyye-motory-2-akkumulyatora/103807713862/reviews?offerId=Be_--JrH0ZjWG-TxizsivQ&shopName=BMSHOP&businessReviews=1",
+    "model_results": {
+      "groq": {
+        "sentiment": "положительный",
+        "main_topic": "качество управления",
+        "issue": "",
+        "rating": 5
+      },
+      "gigachat": {
+        "sentiment": "положительный",
+        "main_topic": "управление",
+        "issue": "",
+        "rating": 5
+      }
+    }
+  },
+  {
+    "review_id": 5,
+    "review_text": "Достоинства: Неплохая комплектация Недостатки: Перестал нормально работать посе первого раз Комментарий: Без падений и ДТП после одного раза работы начал заваливаться назад. Визуально определено перестал работать один из моторов на нужных оборотах. По сути Дрон на свалку.",
+    "original_rating": 1,
+    "original_author": "Станислав Т.",
+    "source_url": "https://market.yandex.ru/card/kvadrokopter-a23-pro-c-kameroy-bezshchetochnyye-motory-2-akkumulyatora/103807713862/reviews?offerId=Be_--JrH0ZjWG-TxizsivQ&shopName=BMSHOP&businessReviews=1",
+    "model_results": {
+      "groq": {
+        "sentiment": "отрицательный",
+        "main_topic": "",
+        "issue": "короткое время работы",
+        "rating": 1
+      },
+      "gigachat": {
+        "sentiment": "отрицательный",
+        "main_topic": "надежность",
+        "issue": "поломка мотора после первой эксплуатации",
+        "rating": 2
+      }
+    }
+  },
+  {
+    "review_id": 6,
+    "review_text": "Достоинства: лёгкий в управлении, надёжный, хорошая комплектация Недостатки: быстро разряжается, но как и все за эту цену Комментарий: неплохой вариант для стартового освоения квадрокоптеров",
+    "original_rating": 5,
+    "original_author": "Сергей Т.",
+    "source_url": "https://market.yandex.ru/card/kvadrokopter-a23-pro-c-kameroy-bezshchetochnyye-motory-2-akkumulyatora/103807713862/reviews?offerId=Be_--JrH0ZjWG-TxizsivQ&shopName=BMSHOP&businessReviews=1",
+    "model_results": {
+      "groq": {
+        "sentiment": "положительный",
+        "main_topic": "управление",
+        "issue": "короткое время работы батареи",
+        "rating": 4
+      },
+      "gigachat": {
+        "sentiment": "положительный",
+        "main_topic": "лёгкость управления",
+        "issue": "быстро разряжается",
+        "rating": 4
+      }
+    }
+  },
+  {
+    "review_id": 7,
+    "review_text": "Достоинства: вроде все работает оетает Недостатки: маленько тянет в сторону Комментарий: отличный коптер взял для съёмок очень понравился",
+    "original_rating": 5,
+    "original_author": "Николай Р.",
+    "source_url": "https://market.yandex.ru/card/kvadrokopter-a23-pro-c-kameroy-bezshchetochnyye-motory-2-akkumulyatora/103807713862/reviews?offerId=Be_--JrH0ZjWG-TxizsivQ&shopName=BMSHOP&businessReviews=1",
+    "model_results": {
+      "groq": {
+        "sentiment": "положительный",
+        "main_topic": "качество камеры",
+        "issue": "",
+        "rating": 4
+      },
+      "gigachat": {
+        "sentiment": "положительный",
+        "main_topic": "общая производительность",
+        "issue": "незначительное отклонение в управлении",
+        "rating": 4
+      }
+    }
+  },
+  {
+    "review_id": 8,
+    "review_text": "Достоинства: компактная штука можно брать с собой на отдых Недостатки: маленькая и очень лёгкая ветер сносит, не легко управлять Комментарий: когда пробовал дома управлять было так просто и легко, но когда вышел на улицу понял что тут нужна сноровка и большой опыт",
+    "original_rating": 4,
+    "original_author": "Елена П.",
+    "source_url": "https://market.yandex.ru/card/kvadrokopter-a23-pro-c-kameroy-bezshchetochnyye-motory-2-akkumulyatora/103807713862/reviews?offerId=Be_--JrH0ZjWG-TxizsivQ&shopName=BMSHOP&businessReviews=1",
+    "model_results": {
+      "groq": {
+        "sentiment": "нейтральный",
+        "main_topic": "управление",
+        "issue": "неудобство при управлении на улице",
+        "rating": 4
+      },
+      "gigachat": {
+        "sentiment": "смешанный",
+        "main_topic": "компактность",
+        "issue": "сложности управления на улице из-за размера и веса",
+        "rating": 3
+      }
+    }
+  },
+  {
+    "review_id": 9,
+    "review_text": "Достоинства: Нет Недостатки: Одноразовая игрушка Комментарий: Сломалась в первый же день",
+    "original_rating": 1,
+    "original_author": "Владимир Л.",
+    "source_url": "https://market.yandex.ru/card/kvadrokopter-a23-pro-c-kameroy-bezshchetochnyye-motory-2-akkumulyatora/103807713862/reviews?offerId=Be_--JrH0ZjWG-TxizsivQ&shopName=BMSHOP&businessReviews=1",
+    "model_results": {
+      "groq": {
+        "sentiment": "отрицательный",
+        "main_topic": "",
+        "issue": "качество",
+        "rating": 1
+      },
+      "gigachat": {
+        "sentiment": "отрицательный",
+        "main_topic": "",
+        "issue": "низкое качество сборки или надежность",
+        "rating": 1
+      }
+    }
+  },
+  {
+    "review_id": 10,
+    "review_text": "Достоинства: Цена Недостатки: Камера, дальность полета. Комментарий: Для начинающих самое то, не ждите чудес о великолепной съёмке. Продавец не отвечает на вопросы, приложение в инструкции устарело и не поддерживается, скачивайте WIFI_CAM. В целом доволен покупкой.",
+    "original_rating": 5,
+    "original_author": "Анна Г.",
+    "source_url": "https://market.yandex.ru/card/kvadrokopter-a23-pro-c-kameroy-bezshchetochnyye-motory-2-akkumulyatora/103807713862/reviews?offerId=Be_--JrH0ZjWG-TxizsivQ&shopName=BMSHOP&businessReviews=1",
+    "model_results": {
+      "groq": {
+        "sentiment": "положительный",
+        "main_topic": "качество камеры",
+        "issue": "короткая дальность полета",
+        "rating": 4
+      },
+      "gigachat": {
+        "sentiment": "положительный",
+        "main_topic": "цена",
+        "issue": "качество камеры, недостаточная дальность полета, отсутствие поддержки продавца, устаревшая инструкция",
+        "rating": 3
+      }
+    }
+  },
+  {
+    "review_id": 11,
+    "review_text": "Достоинства: нет Недостатки: хуже игрушки за такую цену я не видел Китайское Г. дешёвый пластик , кабель 5см. mikrousb таким разъёмом пользовались лет 10 назад . 'Кейс\"только название по факту тряпка с паралоном . такого же качества можно взять 5шт по 1000р хотел племяннику на день рождения подарить но такое Г. даже на мусорке не примут . Комментарий: стоит 1000 РАЗ ПОДУМАТЬ ПРЕЖДЕ ЧЕМ ТАКОЕ ПОКУПАТЬ Что качество? НЕ НЕСЛЫШАЛ интересно а продавец знает что такое 8к ? камера от старой нокии",
+    "original_rating": 1,
+    "original_author": "Павел Ш.",
+    "source_url": "https://market.yandex.ru/card/kvadrokopter-a23-pro-c-kameroy-bezshchetochnyye-motory-2-akkumulyatora/103807713862/reviews?offerId=Be_--JrH0ZjWG-TxizsivQ&shopName=BMSHOP&businessReviews=1",
+    "model_results": {
+      "groq": {
+        "sentiment": "отрицательный",
+        "main_topic": "",
+        "issue": "качество",
+        "rating": 1
+      },
+      "gigachat": {
+        "sentiment": "отрицательный",
+        "main_topic": "качество материалов и сборки",
+        "issue": "низкое качество всех компонентов: цена-качество абсолютно несоотносимы",
+        "rating": 1
+      }
+    }
+  },
+  {
+    "review_id": 12,
+    "review_text": "Достоинства: Он летает, ровно. Понятен в управлении. Недостатки: 1. Полет 5 минут. Далеко не полететь. Аккумулятор быстро разряжается. 2. Защита лопастей сломались в первый же день. Очень всё дешевенькое и хлюпкое. Комментарий: Не рекомендую к покупке. Не интересно летать 5 минут.",
+    "original_rating": 2,
+    "original_author": "Ирина Б.",
+    "source_url": "https://market.yandex.ru/card/kvadrokopter-a23-pro-c-kameroy-bezshchetochnyye-motory-2-akkumulyatora/103807713862/reviews?offerId=Be_--JrH0ZjWG-TxizsivQ&shopName=BMSHOP&businessReviews=1",
+    "model_results": {
+      "groq": {
+        "sentiment": "отрицательный",
+        "main_topic": "качество",
+        "issue": "короткое время работы батареи, низкая прочность",
+        "rating": 1
+      },
+      "gigachat": {
+        "sentiment": "отрицательный",
+        "main_topic": "время работы батареи",
+        "issue": "быстрое разрядирование аккумулятора и низкое качество материалов",
+        "rating": 1
+      }
+    }
+  },
+  {
+    "review_id": 13,
+    "review_text": "Достоинства: Норм для начинающих Недостатки: На долго не хватает зарядки Комментарий: Стоит своих денег",
+    "original_rating": 5,
+    "original_author": "Роман Н.",
+    "source_url": "https://market.yandex.ru/card/kvadrokopter-a23-pro-c-kameroy-bezshchetochnyye-motory-2-akkumulyatora/103807713862/reviews?offerId=Be_--JrH0ZjWG-TxizsivQ&shopName=BMSHOP&businessReviews=1",
+    "model_results": {
+      "groq": {
+        "sentiment": "положительный",
+        "main_topic": "качество",
+        "issue": "короткое время работы батареи",
+        "rating": 4
+      },
+      "gigachat": {
+        "sentiment": "положительный",
+        "main_topic": "нормальность для начинающих",
+        "issue": "недолгое время работы от заряда",
+        "rating": 3
+      }
+    }
+  },
+  {
+    "review_id": 14,
+    "review_text": "Достоинства: очень хорошо летает но в маленьком пространстве лучше не пробовать Недостатки: нельзя сложить с защитой",
+    "original_rating": 5,
+    "original_author": "Татьяна К.",
+    "source_url": "https://market.yandex.ru/card/kvadrokopter-a23-pro-c-kameroy-bezshchetochnyye-motory-2-akkumulyatora/103807713862/reviews?offerId=Be_--JrH0ZjWG-TxizsivQ&shopName=BMSHOP&businessReviews=1",
+    "model_results": {
+      "groq": {
+        "sentiment": "положительный",
+        "main_topic": "качество управления",
+        "issue": "",
+        "rating": 4
+      },
+      "gigachat": {
+        "sentiment": "смешанный",
+        "main_topic": "летные характеристики",
+        "issue": "невозможно сложить с защитой",
+        "rating": 3
+      }
+    }
+  },
+  {
+    "review_id": 15,
+    "review_text": "Достоинства: пока не увидел Недостатки: максимально невнятная инструкция. несоответствие информации в инструкции заявленной в описании товара на сайте (высота полета, дальность полета, масса игрушки и т.д.). отсутствие видео инструкции. этакий ребус, в конце которой сомнительный результат за который ты ещё и платишь 64.6 $. в течении которого времени товар можно вернуть?",
+    "original_rating": 1,
+    "original_author": "Михаил Д.",
+    "source_url": "https://market.yandex.ru/card/kvadrokopter-a23-pro-c-kameroy-bezshchetochnyye-motory-2-akkumulyatora/103807713862/reviews?offerId=Be_--JrH0ZjWG-TxizsivQ&shopName=BMSHOP&businessReviews=1",
+    "model_results": {
+      "groq": {
+        "sentiment": "отрицательный",
+        "main_topic": "",
+        "issue": "несоответствие информации в инструкции заявленной в описании товара",
+        "rating": 1
+      },
+      "gigachat": {
+        "sentiment": "отрицательный",
+        "main_topic": "инструкция по использованию",
+        "issue": "несоответствие информации в инструкции и на сайте, отсутствие видео инструкции",
+        "rating": 2
+      }
+    }
+  }
+]
